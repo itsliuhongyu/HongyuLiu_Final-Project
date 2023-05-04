@@ -1,0 +1,68 @@
+h1.main-title {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    vertical-align: middle;
+    margin-top: -450px;
+  }
+  
+  h3.subtitle {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    font-style: italic;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    vertical-align: middle;
+    margin-top: 0px;
+  }
+
+  h3.author {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    margin-top: 0px;
+  }
+
+  h3.date {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: left;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+    margin-top: 0px;
+  }
+
+  img {
+    margin-bottom: 15px;
+  }
+  
+
+  p {
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    }
+  
+  .columns.is-mobile .caption {
+    font-family: 'Libre Franklin', sans-serif;
+    text-align: left;
+    color: #656464;
+    font-size: 15px;
+    margin-top: 10px;
+    }
+
+    .columns .column .caption {
+        font-family: 'Libre Franklin', sans-serif;
+        text-align: left;
+        color: #656464;
+        font-size: 15px;
+        margin-top: 10px;
+    }
+    
